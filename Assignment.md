@@ -86,10 +86,10 @@ npm run dev
 
 ### Login Screen
 
-![Login Interface](screenshot/Screenshot 2025-11-01 at 11-42-44 socketio-chat.login.png)
+![Login Interface](screenshot/socketio-chat.login.png)
 _User authentication interface with username input_
 
 ### Main Chat Interface
 
-![Main Chat Room](screenshot/Screenshot 2025-11-01 at 11-45-34 socketio-chat.png)
+![Main Chat Room](screenshot/main-socketio-chat.png)
 _Global chat room showing real-time messages and online users_
