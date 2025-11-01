@@ -86,7 +86,7 @@ npm run dev
 
 ### Login Screen
 
-![Login Interface](screenshots//Screenshot 2025-11-01 at 11-42-44 socketio-chat.login.png)
+![Login Interface](screenshots/Screenshot 2025-11-01 at 11-42-44 socketio-chat.login.png)
 _User authentication interface with username input_
 
 ### Main Chat Interface
